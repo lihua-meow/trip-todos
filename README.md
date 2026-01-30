@@ -57,7 +57,7 @@ trip-todos/
 
 - Node.js 16+ and npm
 - Python 3.9+
-- OpenAI API key or Google Gemini API key
+- OpenAI API key
 
 ### Installation
 
@@ -96,11 +96,6 @@ Create a `.env` file in the `backend/` directory:
 
 ```
 OPENAI_API_KEY=your_openai_api_key_here
-```
-
-Or use Gemini:
-```
-API_KEY=your_gemini_api_key_here
 ```
 
 ## Running the Application
